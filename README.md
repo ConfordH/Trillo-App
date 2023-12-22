@@ -25,7 +25,7 @@ The project uses the [Open Sans](https://fonts.google.com/specimen/Open+Sans) fo
 
 ## Preview
 
-![Trillo App](Landing Page.png)
+![Trillo App](img/Landing Page.png)
 
 ## Contact Information
 
