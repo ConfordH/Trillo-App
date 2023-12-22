@@ -25,7 +25,7 @@ The project uses the [Open Sans](https://fonts.google.com/specimen/Open+Sans) fo
 
 ## Preview
 
-![Trillo Booking App](Landing page.png)
+![Trillo Booking App](img/Landing page.png)
 
 ## Contact Information
 
