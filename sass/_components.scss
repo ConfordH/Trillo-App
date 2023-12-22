@@ -1,7 +1,6 @@
 /*LOGO*/
-
 .logo {
-  height: 3.5rem;
+  height: 3.25rem;
   margin-left: 2rem;
 }
 
@@ -13,7 +12,7 @@
   align-items: center;
   justify-content: center;
 
-  @media only screen and (max-width; $bp-smallest) {
+  @media only screen and (max-width: $bp-smallest) {
     order: 1;
     flex: 0 0 100%;
     background-color: var(--color-grey-light-2);
@@ -67,7 +66,7 @@
   }
 }
 
-/*NAVIGATION*/
+/*USER NAVIGATION*/
 .user-nav {
   align-self: stretch;
 
@@ -82,7 +81,7 @@
     align-items: center;
   }
 
-  & > * :hover {
+  & > *:hover {
     background-color: var(--color-grey-light-2);
   }
 
@@ -99,7 +98,7 @@
   &__notification {
     font-size: 0.8rem;
     height: 1.75rem;
-    width: 0.75rem;
+    width: 1.75rem;
     border-radius: 50%;
     background-color: var(--color-primary);
     color: #fff;
@@ -119,8 +118,7 @@
   }
 }
 
-/* SIDE NAVIGATION*/
-
+/*SIDE NAVIGATION*/
 .side-nav {
   font-size: 1.4rem;
   list-style: none;
@@ -156,7 +154,7 @@
     width: 3px;
     background-color: var(--color-primary);
     transform: scaleY(0);
-    transition: tranform 0.2s, width 0.4s cubic-bezier(1, 0, 0, 1) 0.2s,
+    transition: transform 0.2s, width 0.4s cubic-bezier(1, 0, 0, 1) 0.2s,
       background-color 0.1s;
   }
 
@@ -183,12 +181,12 @@
     display: flex;
     align-items: center;
 
-    @media only screem and (max-width: $bp-medium) {
+    @media only screen and (max-width: $bp-medium) {
       justify-content: center;
       padding: 2rem;
     }
 
-    @media only screen and (max-width-small) {
+    @media only screen and (max-width: $bp-small) {
       flex-direction: column;
       padding: 1.5rem 0.5rem;
     }
