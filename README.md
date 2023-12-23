@@ -15,7 +15,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ConfordH/trillo-booking-app.git
+   git clone https://github.com/ConfordH/Trillo-App.git
    ```
 
 2. Open the `index.html` file in your preferred web browser.
