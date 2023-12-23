@@ -13,6 +13,7 @@ This project is a simple booking app UI developed using Sass and Flexbox. The de
 Follow these steps to set up the project on your local machine:
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/ConfordH/Trillo-App.git
    ```
@@ -25,11 +26,12 @@ The project uses the [Open Sans](https://fonts.google.com/specimen/Open+Sans) fo
 
 ## Preview
 
-![Trillo App](Landing Page.png)
+![Trillo App](img/Landing%20page.png))
 
 ## Contact Information
 
 For inquiries and assistance, please contact:
+
 - **Email:** [hamiltonconford@gmail.com](mailto:hamiltonconford@gmail.com)
 - **LinkedIn:** [Hamilton Conford](https://www.linkedin.com/in/hamilton-conford-42ba87158/)
 - **Company:** Buntu Labs
